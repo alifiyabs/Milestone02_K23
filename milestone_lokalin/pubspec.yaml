@@ -46,7 +46,7 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - images/setling.png
+    - images/
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
@@ -63,7 +63,11 @@ flutter:
   fonts:
     - family: InterBlack
       fonts:
-        - asset: fonts/Inter-Black.ttf
+        - asset: fonts/Inter/Inter-Black.ttf
+    - family: InterMedium
+      fonts:
+        - asset: fonts/Inter/Inter-Medium.ttf
+        
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
