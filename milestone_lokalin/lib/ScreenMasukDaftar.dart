@@ -38,8 +38,8 @@ class ScreenMasukdaftar extends StatelessWidget {
             ),
 
             Positioned(
-                top: MediaQuery.of(context).size.width*1.40,
-                left: MediaQuery.of(context).size.height*0.03,
+                top: MediaQuery.of(context).size.width*1.40, //biar nyesuain sama screen
+                left: MediaQuery.of(context).size.height*0.03, //biar nyesuain sama screen
                 child: TextButton(
                   onPressed: () {},
                   style: TextButton.styleFrom(
@@ -66,8 +66,8 @@ class ScreenMasukdaftar extends StatelessWidget {
                 )
             ),
             Positioned(
-                top: MediaQuery.of(context).size.width*1.60,
-                left: MediaQuery.of(context).size.height*0.03,
+                top: MediaQuery.of(context).size.width*1.60, //biar nyesuain sama screen
+                left: MediaQuery.of(context).size.height*0.03, //biar nyesuain sama screen
                 child: TextButton(
                   onPressed: () {},
                   style: TextButton.styleFrom(
