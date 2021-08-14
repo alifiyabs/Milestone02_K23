@@ -17,6 +17,6 @@ Solusi permasalahan diimplemntasikan dalam bentuk mobile app
 -> Cara menjalankan aplikasi:
   1. User pertama akan diarahkan ke halaman utama pada aplikasi
   2. Halaman berikutnya user akan memilih pilihan 'Masuk'/'Daftar'
-    a. Jika user memilih pilihan 'Daftar', maka user akan diminta untuk mengisi beberapa data diri mereka, seperti nama, email, alamat rumah, password, dan                konfirmasi password. 
-    b. Jika user memilih pilihan 'Masuk', maka user akan diminta untuk memasukkan email dan password mereka.
+    --> Jika user memilih pilihan 'Daftar', maka user akan diminta untuk mengisi beberapa data diri mereka, seperti nama, email, alamat rumah, password, dan                konfirmasi password. 
+    --> Jika user memilih pilihan 'Masuk', maka user akan diminta untuk memasukkan email dan password mereka.
   3. 
