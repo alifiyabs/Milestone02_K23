@@ -8,7 +8,7 @@ Kelompok 23: PT. LOKALIN BERKARYA MAJU TERUS PANTANG MUNDUR
 2. Daffa Romyz Aufa (16520068), Frontend
 3. Muhammad Fajar Ramadhan (16520106), Frontend
 4. Divya Maharani Lazuardi (16520305), Frontend
-5. Alifiya Brizita Shary (16520356), Data
+5. Alifiya Brizita Shary (16520356), Data UMKM
 6. Fikri Khoiron Fadhila (16520408), Frontend
 7. Akmal Jauhar Sidqi (16520417), Frontend
 8. Zafran Divac Azzahra (16520460), Frontend
