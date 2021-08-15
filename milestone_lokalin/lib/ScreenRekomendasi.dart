@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:milestone_lokalin/model/tourism_place.dart';
+import 'package:milestone_lokalin/umkm.dart';
 
 class ScreenRekomendasi extends StatelessWidget {
   const ScreenRekomendasi({Key? key}) : super(key: key);
@@ -197,7 +198,7 @@ class ScreenRekomendasi extends StatelessWidget {
                     crossAxisCount: 2,
                     crossAxisSpacing: 0,
                     mainAxisSpacing: 8,
-                    children: tourismPlaceList.map((place) {
+                    children: umkm_list.map((umkm) {
                       return InkWell(
                         onTap: () {},
                         child: Card(
@@ -208,14 +209,14 @@ class ScreenRekomendasi extends StatelessWidget {
                                 borderRadius: BorderRadius.circular(15.0),
                                 image: DecorationImage(
                                     fit: BoxFit.cover,
-                                    image: AssetImage(place.imageAsset))),
+                                    image: NetworkImage(umkm.image_url))),
                             child: Align(
                               alignment: Alignment.bottomLeft,
                               child: Padding(
                                 padding:
                                     const EdgeInsets.only(left: 10, bottom: 10),
                                 child: Text(
-                                  place.name,
+                                  umkm.nama_umkm,
                                   style: TextStyle(
                                       fontFamily: "InterMedium",
                                       fontWeight: FontWeight.w200,
