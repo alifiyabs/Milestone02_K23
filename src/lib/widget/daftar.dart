@@ -5,6 +5,7 @@ import './ScreenGado.dart';
 
 
 class Satu extends StatelessWidget {
+  // Widget Daftar
 
   @override
   Widget build(BuildContext context) {
