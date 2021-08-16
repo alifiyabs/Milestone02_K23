@@ -24,4 +24,29 @@
        ![daftar](https://user-images.githubusercontent.com/70936255/129556994-9d6372fd-af9f-4241-8736-4585b9a21f32.png)
      - Jika user memilih pilihan 'Masuk', maka user akan diminta untuk memasukkan email dan password mereka yang telah didaftarkan sebelumnya.\
        ![login](https://user-images.githubusercontent.com/70936255/129557002-e7b34061-a214-47aa-a93c-48508fd1edc7.png)
-  4. Setelah berhasil masuk ke akunnya, user akan melihat beberapa rekomendasi UMKM terdekat dari alamat rumah mereka (sesuai dengan data yang didapat pada proses pendaftaran akun). 
+       
+  Setelah berhasil masuk ke akunnya, user akan melihat beberapa rekomendasi UMKM terdekat dari alamat rumah mereka (sesuai dengan data yang didapat pada proses pendaftaran akun).\
+  ![rekomendasi](https://user-images.githubusercontent.com/70936255/129558580-d5c4f656-4940-4ebc-94d5-8c5358f9ba10.jpeg)
+  
+  Kita juga bisa melakukan pengaturan terhadap akun yang kita punya pada aplikasi ini. Tak hanya itu, user juga dapat melihat list toko yang mereka favoritkan.\
+  ![arahin menu](https://user-images.githubusercontent.com/70936255/129556984-262d3932-46b6-48b6-8351-da4b87352218.png) ![arahin logout](https://user-images.githubusercontent.com/70936255/129560121-4cf42c75-2cf4-4de9-bd33-6cb6d3925b34.png)
+  
+  User juga dapat mencari UMKM berdasarkan daerah yang dikehendaki.\
+  ![arahin cari daerah](https://user-images.githubusercontent.com/70936255/129560773-9b14865a-d338-4507-be98-b83a1d07f3f3.png) ![halo fiya](https://user-images.githubusercontent.com/70936255/129556999-99053d3d-4c46-44d3-8707-bcca4c82ed1d.png)
+  
+  Kemudian, user akan diarahkan ke halaman pencarian. Di halaman ini juga bisa dikelompokkan berdasarkan kategori UMKM yang ada.\
+  ![hasil pencarian](https://user-images.githubusercontent.com/70936255/129557000-5891bdbf-2238-44ac-a86a-7e384b62a644.png)
+  
+  Ketika user menekan toko yang ada di halaman pencarian, maka user akan diarahkan ke halaman informasi toko. Pada halaman ini terdapat beberapa data mengenai toko yang dipilih, seperti nama toko, alamat toko, dan nomor telepon pemilik toko.\
+  ![info toko](https://user-images.githubusercontent.com/70936255/129563237-07e685dd-59ee-4bf7-abb6-3f6802537009.jpeg)
+  
+  Pada halaman informasi toko, user juga dapat melihat titik lokasi toko dengan menekan fitur 'Buka Map'.\
+  ![buka map](https://user-images.githubusercontent.com/70936255/129556991-9cb365de-c951-4a8d-a291-f2e676ac0188.png)
+  
+  Untuk mengarahkan ke toko online (ex: GrabFood, ShopeeFood, Tokopedia, dll.) tersedia fitur yang dapat mengarahkan user langsung ke toko online tersebut.\
+  ![arah link](https://user-images.githubusercontent.com/70936255/129556969-46b0d2f4-02b0-455b-b876-a23aede4c5c1.png)
+  
+  Selain itu, user dapat menyimpan toko dengan menggunakan fitur "Favoritkan" yang tersedia di aplikasi.
+  ![favorit](https://user-images.githubusercontent.com/70936255/129556997-6f09cdb7-e6f5-4fe4-b827-e9bc814036fd.png)
+  
+  
