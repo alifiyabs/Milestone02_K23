@@ -4,6 +4,8 @@ import '../widget/ScreenGado.dart';
 import '../model/umkm.dart';
 
 class List_satu extends StatelessWidget {
+  // Widget daftar_umkm
+
   final Umkm daftar;
 
   List_satu(this.daftar);
