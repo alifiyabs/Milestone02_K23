@@ -17,6 +17,8 @@
 Lokalin adalah sebuah aplikasi untuk membantu UMKM yang terdampak pada masa pandemi ini. Aplikasi ini akan merekomendasikan berbagai UMKM yang tersedia di sekitar tempat tinggal pengguna aplikasi. Aplikasi ini juga memiliki fitur untuk mengarahkan pengguna ke tampat jualan online toko yang direkomendasikan. 
 
 ### Implementasi Solusi
+Solusi kami diimplementasikan dalam bentuk Mobile Application.
+
 - **Cara menjalankan aplikasi:**\
   User pertama akan diarahkan ke halaman utama pada aplikasi\
   ![Screen Lokalin](https://user-images.githubusercontent.com/70936255/129554213-68465c64-45ea-46ea-8538-9b4c96d35fce.png)
