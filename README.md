@@ -13,6 +13,9 @@
 7. Akmal Jauhar Sidqi (16520417), Frontend
 8. Zafran Divac Azzahra (16520460), Frontend
 
+### Tentang Project
+Lokalin adalah sebuah aplikasi untuk membantu UMKM yang terdampak pada masa pandemi ini. Aplikasi ini akan merekomendasikan berbagai UMKM yang tersedia di sekitar tempat tinggal pengguna aplikasi. Aplikasi ini juga memiliki fitur untuk mengarahkan pengguna ke tampat jualan online toko yang direkomendasikan. 
+
 ### Implementasi Solusi
 - **Cara menjalankan aplikasi:**\
   User pertama akan diarahkan ke halaman utama pada aplikasi\
