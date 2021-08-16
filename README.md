@@ -14,7 +14,7 @@
 8. Zafran Divac Azzahra (16520460), Frontend
 
 ### Implementasi Solusi
-- Cara menjalankan aplikasi:\
+- **Cara menjalankan aplikasi:**\
   User pertama akan diarahkan ke halaman utama pada aplikasi\
   ![Screen Lokalin](https://user-images.githubusercontent.com/70936255/129554213-68465c64-45ea-46ea-8538-9b4c96d35fce.png)
   
